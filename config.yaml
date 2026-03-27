@@ -1,0 +1,14 @@
+site:
+  title: "My Blog"
+  description: "A simple blog"
+  url: "https://example.com"
+
+style:
+  font_family: "system-ui, -apple-system, sans-serif"
+  font_size: "18px"
+  line_height: "1.7"
+  max_width: "720px"
+  code_theme: "monokai"
+  background: "#ffffff"
+  text_color: "#333333"
+  link_color: "#0066cc"
